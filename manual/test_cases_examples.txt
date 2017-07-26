@@ -1,0 +1,23 @@
+Test cases of ele
+Example of sev and prio
+example of equivalence partioning and boundary one 
+/three point estiamtion?
+
+Examples of 
+
+High Severity and High Priority :- Login or registering function is not working.
+High Severity and low Priority :- running down on space after uploading 1000 pics on your database.
+Low Severity and High Priority :- Any typo on the front screen
+Low Severity and low priority :- While filling a form on the site the comment field accepting only 200 characters.
+ 
+
+
+Boundary condition dataset:- Testing a program with the conrner cases.
+
+eg: Given a function returning the square of all the numbers in the range 1 to 100.
+Test with 1 and 100.
+
+Equivalence Dataset:- A program returning the reverse of all the real numbers.  
+The input can be divided into three partitions like negatives, zero and positives.
+
+ 
